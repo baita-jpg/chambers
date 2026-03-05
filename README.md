@@ -1,2 +1,2 @@
-# chambers
-System Design for Chambers Homes Nigeria
+# NigerPay
+System Design for Niger Fintech Company 
